@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TheLuna/Movie_app/static/css/main.fa0594a5.css",
+    "main.js": "/TheLuna/Movie_app/static/js/main.f12167a7.js",
+    "index.html": "/TheLuna/Movie_app/index.html",
+    "main.fa0594a5.css.map": "/TheLuna/Movie_app/static/css/main.fa0594a5.css.map",
+    "main.f12167a7.js.map": "/TheLuna/Movie_app/static/js/main.f12167a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa0594a5.css",
+    "static/js/main.f12167a7.js"
+  ]
+}
